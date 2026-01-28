@@ -1,5 +1,15 @@
 # USPS v3 API JavaScript Library
 
+This repository is a fork of the original **[balancer-team/usps-v3-js](https://github.com/balancer-team/usps-v3-js)** project.
+
+It has been modified to support Testing Environment Endpoints which original project does not support.
+
+## Forked From
+
+Original project: https://github.com/balancer-team/usps-v3-js
+
+---
+
 Library for interfacing with the USPS v3 API. The USPS v3 API replaces the legacy Web Tools API.
 
 ### Installation
