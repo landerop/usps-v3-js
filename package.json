@@ -1,16 +1,14 @@
 {
-  "name": "@balancer-team/usps-v3",
-  "version": "0.0.9",
+  "name": "@cc/usps-v3",
+  "version": "1.0.0",
   "description": "Library for interfacing with the USPS v3 API.",
   "main": "./dist/index.js",
   "scripts": {
     "build": "tsc",
     "test": "node --require ts-node/register --test test/*.test.ts"
   },
-  "author": "Alan Hettinger",
+  "author": "Classical Conversations",
   "license": "MIT",
-  "repository": "github:balancer-team/usps-v3-js",
-  "homepage": "https://www.balancer.team",
   "devDependencies": {
     "dotenv": "^16.4.7",
     "ts-node": "^10.9.2",
